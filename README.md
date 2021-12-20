@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Barthwal currently working as Junior .NET Developer at Buck.
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and cloud computing.
 - 🌱 I’m currently learning jQuery
 
 <!---
